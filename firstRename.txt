@@ -3,3 +3,4 @@ I want to perform 2nd commit.
 3rd change
 Another change
 Back from stage
+Added to github
